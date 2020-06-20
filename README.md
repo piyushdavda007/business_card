@@ -1,4 +1,4 @@
-# businesscard
+# business card
 
 A Flutter application.
 
